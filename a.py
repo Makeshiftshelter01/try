@@ -4,5 +4,6 @@ def a:
 def b:
     pass
 
-def c:
+def c():
+    #p
     pass
